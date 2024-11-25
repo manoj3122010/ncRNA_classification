@@ -83,7 +83,7 @@ To get the project up and running on your local machine, follow these steps:
 3. **Install the required dependencies:**
     - For non-PyTorch models:
     ```bash
-    pip install -r requirements_for_torch_models.txt
+    pip install -r requirements.txt
     ```
     - For PyTorch-based models:
     ```bash
